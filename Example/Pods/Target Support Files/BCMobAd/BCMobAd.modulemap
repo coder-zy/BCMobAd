@@ -1,0 +1,6 @@
+framework module BCMobAd {
+  umbrella header "BCMobAd-umbrella.h"
+
+  export *
+  module * { export * }
+}
