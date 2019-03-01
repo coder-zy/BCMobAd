@@ -34,6 +34,13 @@ typedef NS_ENUM(NSInteger,LaunchSourceType) {
  @param mobAdLaunch BCMobAdLaunch
  */
 -(void)bcmobadLaunchShowFail:(BCMobAdLaunch *)mobAdLaunch withError:(NSString *)err;
+/**
+ 自定义跳过按钮回调
+ @param mobAdLaunch BCMobAdLaunch
+ @param customSkipView 自定义按钮
+ @param duration 倒计时
+ */
+-(void)bcmobadLaunch:(BCMobAdLaunch *)mobAdLaunch customSkipView:(UIView *)customSkipView duration:(NSInteger)duration;
 @end
 
 /**
