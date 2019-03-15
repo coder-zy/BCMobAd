@@ -41,6 +41,14 @@ typedef NS_ENUM(NSInteger,LaunchSourceType) {
  @param duration 倒计时
  */
 -(void)bcmobadLaunch:(BCMobAdLaunch *)mobAdLaunch customSkipView:(UIView *)customSkipView duration:(NSInteger)duration;
+
+
+/**
+ 广告显示结束
+
+ @param adLaunch BCMobAdLaunch
+ */
+-(void)bcmobadShowFinish:(BCMobAdLaunch *)adLaunch;
 @end
 
 /**
