@@ -8,11 +8,12 @@
 
 Pod::Spec.new do |s|
   s.name             = 'BCMobAd'
-  s.version          = '0.1.4'
-  s.summary          = 'A short description of BCMobAd.'
+  s.version          = '0.1.5'
+  s.summary          = 'BaiCe AD'
 
   s.description      = <<-DESC
-    SDK介绍
+    百策广告SDK。
+    目前支持广告类型：开屏广告
                        DESC
 
   s.homepage         = 'https://github.com/coder-zy/BCMobAd'
@@ -25,11 +26,9 @@ Pod::Spec.new do |s|
   s.ios.deployment_target = '8.0'
 
   s.source_files = 'BCMobAd/Classes/**/*'
-  s.resource_bundles = {
-      'BCResources' => ['BCMobAd/Assets/*.png']
-  }
+  s.resource = "BCMobAd/Assets/BCResources.bundle"
   # s.resource_bundles = {
-  #   'BCMobAd' => ['BCMobAd/Assets/*.png']
+  #   'BCResources' => ['BCMobAd/Assets/*.png']
   # }
 
   # s.public_header_files = 'Pod/Classes/**/*.h'

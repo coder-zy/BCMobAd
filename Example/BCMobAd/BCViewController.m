@@ -17,6 +17,10 @@
 - (void)viewDidLoad
 {
     [super viewDidLoad];
+    NSURL *bundleURL = [[NSBundle mainBundle] URLForResource:@"BCResources" withExtension:@"bundle"];
+    NSBundle *bundle = [NSBundle bundleWithURL:bundleURL];
+    UIImage *leftImage = [UIImage imageNamed:@"bcad_back" inBundle:bundle compatibleWithTraitCollection:nil];
+    
 	// Do any additional setup after loading the view, typically from a nib.
 }
 

@@ -8,19 +8,24 @@
 
 /* Begin PBXBuildFile section */
 		0452811E1C8A658BB3562779219F0E50 /* Pods-BCMobAd_Tests-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = AE7957102C871428BA70F5050B083A74 /* Pods-BCMobAd_Tests-dummy.m */; };
+		05D15BF0E455C02FD2E13DFD26E51F72 /* bcad_ic_qs_ring_mode@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = D40A53D99287772ED869E4358315DF30 /* bcad_ic_qs_ring_mode@2x.png */; };
 		2C7FBEBB46143A95FED37DD4CF012F41 /* Pods-BCMobAd_Example-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 0448F271C9861650163AEFB11918FB84 /* Pods-BCMobAd_Example-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		2E09763B96A6EF72965B9DE9AFA8653B /* BCMobAd-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = CC5C9CC50542AE04D0DC72E5FF39897A /* BCMobAd-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		32E2F835D51463648DB36C33B473AB06 /* bcad_ic_qs_mute_mode@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 3B5A143BC0397BC25E5D46932505EBA7 /* bcad_ic_qs_mute_mode@2x.png */; };
+		335C602E5AE3DD598A3D56B86096EC62 /* bcad_close@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = E3683AEF9F0BE5F25C907E10C177CFFB /* bcad_close@2x.png */; };
 		3E1D1C54561C4AB1B0CDD5F05BAB6133 /* Pods-BCMobAd_Example-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 65DF622ECA3C0A94D4468F901F07C09B /* Pods-BCMobAd_Example-dummy.m */; };
-		46F3522497CE0F75166273AF3C4DFB54 /* libBCMobAdsSDK.a in Sources */ = {isa = PBXBuildFile; fileRef = CD339B515053A21CA9A5A6B93C1B02F1 /* libBCMobAdsSDK.a */; };
-		4E387696079AEC053C44900267FE7CF2 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = F1C2B79C2CCE6522F229BFC52E38DC83 /* Foundation.framework */; };
+		3EB1EF9FF7DF58F5A48CEA5B75F7DC3A /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = F1C2B79C2CCE6522F229BFC52E38DC83 /* Foundation.framework */; };
 		5296E7530F83A97E43008FFC01A346ED /* Pods-BCMobAd_Tests-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 29B0D5D1569354701A9EB87D452E03AC /* Pods-BCMobAd_Tests-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		55C72627A4CE2B1FFB1B77F55C2C6701 /* bcad_back@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 158115F055B560BBA08A2A7318A3D2AD /* bcad_back@2x.png */; };
 		56D0854DB02D905AEB9AD2112C268B97 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = F1C2B79C2CCE6522F229BFC52E38DC83 /* Foundation.framework */; };
-		9BB25BA3AA46D20FC66C865ADE75D264 /* BCMobAd-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 706E01C7F3644AE38D73FD54B85DD2CB /* BCMobAd-dummy.m */; };
-		B50B1B5C0B30FDF8FAC1B2750C3A64BD /* BCMobAdLaunchConfig.h in Headers */ = {isa = PBXBuildFile; fileRef = EF67F3F1FDEE2B8F3D1BE4295FD068D3 /* BCMobAdLaunchConfig.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		C5D936F6D1E71008B75E34F26940FAE6 /* BCMobAdLaunch.h in Headers */ = {isa = PBXBuildFile; fileRef = 415227A9A64FD7B2E09ED8B8DBAC61FA /* BCMobAdLaunch.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		65ADD536BC7A3284238E0A4460133580 /* BCMobAd-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 03E0BA6EC229FB1B0724653CCC8EFA5D /* BCMobAd-dummy.m */; };
+		70B83C8427AF87EBC30702A4FC7E27DB /* BCMobAds.h in Headers */ = {isa = PBXBuildFile; fileRef = 7A3AD60587D949249994516DE584F7FD /* BCMobAds.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		96DE5EAE1E4AB1BD271B93B1FFAF99A7 /* BCResources.bundle in Resources */ = {isa = PBXBuildFile; fileRef = 7FDAE5561937AED04AFC27A5106F9F68 /* BCResources.bundle */; };
+		AEDDC2F0F8D78D184F29991465537FDF /* CoreTelephony.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 330DDD07A47EC1F468C0DC0AD41A3FDE /* CoreTelephony.framework */; };
 		D14A97E93A535F3D5C3EB389CB5EA3FD /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = F1C2B79C2CCE6522F229BFC52E38DC83 /* Foundation.framework */; };
-		DEE116D62D2A5FA7F462FA4B15690514 /* CoreTelephony.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 330DDD07A47EC1F468C0DC0AD41A3FDE /* CoreTelephony.framework */; };
-		F6A24D1DBAC29DC3745C055D94A03B0B /* BCMobAds.h in Headers */ = {isa = PBXBuildFile; fileRef = 5AD4516ADCE152B2B07759F51A56A1E9 /* BCMobAds.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		D4EA1C8820B18B5ACC313DB515078A6B /* libBCMobAdsSDK.a in Sources */ = {isa = PBXBuildFile; fileRef = A74CE3B63AC5E97E70793BB56CB32A26 /* libBCMobAdsSDK.a */; };
+		D9664C82ECF72D318796A14E43BADFBB /* BCMobAdLaunch.h in Headers */ = {isa = PBXBuildFile; fileRef = 7400CA513600EB546152CB9C627F203D /* BCMobAdLaunch.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		F08910685EC9261FFF6F5822258CCF7B /* BCMobAd-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = B9ACFB4E0A3ED8125641B580025E4DA3 /* BCMobAd-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		FE8F5047CE04315073C5888F115EC3A4 /* BCMobAdLaunchConfig.h in Headers */ = {isa = PBXBuildFile; fileRef = C86649C2048B1322950392FA5AAC3EDC /* BCMobAdLaunchConfig.h */; settings = {ATTRIBUTES = (Public, ); }; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -28,7 +33,7 @@
 			isa = PBXContainerItemProxy;
 			containerPortal = D41D8CD98F00B204E9800998ECF8427E /* Project object */;
 			proxyType = 1;
-			remoteGlobalIDString = 7FABAB665A9BA212C9AAB0E0D432AD46;
+			remoteGlobalIDString = 24BDA474972D7503183B3E87E79CAC16;
 			remoteInfo = BCMobAd;
 		};
 		977025F866CE67C4EE8B50CFA15FBEC1 /* PBXContainerItemProxy */ = {
@@ -38,51 +43,73 @@
 			remoteGlobalIDString = DF1906C70CF89D119706BC91D5B963F6;
 			remoteInfo = "Pods-BCMobAd_Example";
 		};
+		C35776084D1238D5ECB6D516B121DE34 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = D41D8CD98F00B204E9800998ECF8427E /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 05603544C888EC7AB7CB42F3CD02B320;
+			remoteInfo = "BCMobAd-BCResources";
+		};
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		03E0BA6EC229FB1B0724653CCC8EFA5D /* BCMobAd-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "BCMobAd-dummy.m"; sourceTree = "<group>"; };
 		0448F271C9861650163AEFB11918FB84 /* Pods-BCMobAd_Example-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-BCMobAd_Example-umbrella.h"; sourceTree = "<group>"; };
-		0C566DFCBF18FA73BBE7EC4104722D05 /* Pods_BCMobAd_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Pods_BCMobAd_Tests.framework; path = "Pods-BCMobAd_Tests.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
+		06916B50ECB60806CBD7F5F664E47C6D /* ResourceBundle-BCResources-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "ResourceBundle-BCResources-Info.plist"; sourceTree = "<group>"; };
+		158115F055B560BBA08A2A7318A3D2AD /* bcad_back@2x.png */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = image.png; name = "bcad_back@2x.png"; path = "BCMobAd/Assets/bcad_back@2x.png"; sourceTree = "<group>"; };
+		1C59F474485E59B942721BEBC22EC4BB /* Pods_BCMobAd_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Pods_BCMobAd_Tests.framework; path = "Pods-BCMobAd_Tests.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
 		29B0D5D1569354701A9EB87D452E03AC /* Pods-BCMobAd_Tests-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-BCMobAd_Tests-umbrella.h"; sourceTree = "<group>"; };
 		2FF862C2A220BCF0C2A907568287633E /* Pods-BCMobAd_Tests.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = "Pods-BCMobAd_Tests.modulemap"; sourceTree = "<group>"; };
 		330DDD07A47EC1F468C0DC0AD41A3FDE /* CoreTelephony.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreTelephony.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS12.0.sdk/System/Library/Frameworks/CoreTelephony.framework; sourceTree = DEVELOPER_DIR; };
-		406FB4B2B5C386DE6EB5D8494BAD1A41 /* BCMobAd.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = BCMobAd.modulemap; sourceTree = "<group>"; };
-		415227A9A64FD7B2E09ED8B8DBAC61FA /* BCMobAdLaunch.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = BCMobAdLaunch.h; path = BCMobAd/Classes/BCMobAdLaunch.h; sourceTree = "<group>"; };
-		41737986D8C3203ED6BB8F7ADAAE3128 /* BCMobAd.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = BCMobAd.xcconfig; sourceTree = "<group>"; };
-		458EA57A8FE43A9B8E9BE809FA6744A0 /* BCMobAd.podspec */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; lastKnownFileType = text; path = BCMobAd.podspec; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		3B5A143BC0397BC25E5D46932505EBA7 /* bcad_ic_qs_mute_mode@2x.png */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = image.png; name = "bcad_ic_qs_mute_mode@2x.png"; path = "BCMobAd/Assets/bcad_ic_qs_mute_mode@2x.png"; sourceTree = "<group>"; };
 		49077326BFFCE33941675633EF6E6EB4 /* Pods-BCMobAd_Tests-resources.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-BCMobAd_Tests-resources.sh"; sourceTree = "<group>"; };
 		4B972C592016FE99980225472D6E2FC9 /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		5AD4516ADCE152B2B07759F51A56A1E9 /* BCMobAds.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = BCMobAds.h; path = BCMobAd/Classes/BCMobAds.h; sourceTree = "<group>"; };
+		533CAAA8DB527B02B51B2BC9543D127F /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; path = LICENSE; sourceTree = "<group>"; };
 		5B7E7F84CB4621A904593E7CBCCC9D23 /* Pods-BCMobAd_Example-resources.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-BCMobAd_Example-resources.sh"; sourceTree = "<group>"; };
-		6362FDAB2F0D3E0E0C0DB7EFEFADD75F /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; path = LICENSE; sourceTree = "<group>"; };
+		5EEBBF0862EB6DB8EF4EC573A2934BD2 /* Pods_BCMobAd_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Pods_BCMobAd_Example.framework; path = "Pods-BCMobAd_Example.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
 		65DF622ECA3C0A94D4468F901F07C09B /* Pods-BCMobAd_Example-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-BCMobAd_Example-dummy.m"; sourceTree = "<group>"; };
-		69A325F286DA3675A56D21CBE5B61F40 /* BCMobAd.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = BCMobAd.framework; path = BCMobAd.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		6E577E1D3895B636E91D2D6784E1FA69 /* Pods-BCMobAd_Example.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-BCMobAd_Example.release.xcconfig"; sourceTree = "<group>"; };
-		706E01C7F3644AE38D73FD54B85DD2CB /* BCMobAd-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "BCMobAd-dummy.m"; sourceTree = "<group>"; };
+		7322269BEA032E2883FF07F434A13B1A /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; path = README.md; sourceTree = "<group>"; };
+		7400CA513600EB546152CB9C627F203D /* BCMobAdLaunch.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = BCMobAdLaunch.h; path = BCMobAd/Classes/BCMobAdLaunch.h; sourceTree = "<group>"; };
 		74905C752FD8692798405A6BF46793D2 /* Pods-BCMobAd_Example.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = "Pods-BCMobAd_Example.modulemap"; sourceTree = "<group>"; };
+		7A3AD60587D949249994516DE584F7FD /* BCMobAds.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = BCMobAds.h; path = BCMobAd/Classes/BCMobAds.h; sourceTree = "<group>"; };
+		7FDAE5561937AED04AFC27A5106F9F68 /* BCResources.bundle */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; name = BCResources.bundle; path = "BCMobAd-BCResources.bundle"; sourceTree = BUILT_PRODUCTS_DIR; };
 		8391FEB3982F1B8E28C5AEA7923217E2 /* Pods-BCMobAd_Example-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-BCMobAd_Example-frameworks.sh"; sourceTree = "<group>"; };
+		8C7EE8C92590B84C421426D36120BDBC /* BCMobAd.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = BCMobAd.xcconfig; sourceTree = "<group>"; };
 		8F40AD515C10F1D5C8EF0F0EB685CCBD /* Pods-BCMobAd_Tests-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-BCMobAd_Tests-acknowledgements.plist"; sourceTree = "<group>"; };
 		93A4A3777CF96A4AAC1D13BA6DCCEA73 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; lastKnownFileType = text; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		952CF92C88C5ABEDFE79285573FE90FE /* Pods-BCMobAd_Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-BCMobAd_Tests.release.xcconfig"; sourceTree = "<group>"; };
-		9B72D8E6B39AD974A81D6A0533A69115 /* BCMobAd-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "BCMobAd-prefix.pch"; sourceTree = "<group>"; };
-		A35FF11B58592EF141125249F87981CD /* Pods_BCMobAd_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Pods_BCMobAd_Example.framework; path = "Pods-BCMobAd_Example.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
+		9FB6107681063E79FB02E9CB5528D16B /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		A42FCADC060B6B89AFEEBA6564DDDAB2 /* Pods-BCMobAd_Tests-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-BCMobAd_Tests-acknowledgements.markdown"; sourceTree = "<group>"; };
+		A74CE3B63AC5E97E70793BB56CB32A26 /* libBCMobAdsSDK.a */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = archive.ar; name = libBCMobAdsSDK.a; path = BCMobAd/Classes/libBCMobAdsSDK.a; sourceTree = "<group>"; };
 		A875D6D05B63E60E06D3B4EA2D834A64 /* Pods-BCMobAd_Example-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-BCMobAd_Example-acknowledgements.markdown"; sourceTree = "<group>"; };
 		AE7957102C871428BA70F5050B083A74 /* Pods-BCMobAd_Tests-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-BCMobAd_Tests-dummy.m"; sourceTree = "<group>"; };
+		B9ACFB4E0A3ED8125641B580025E4DA3 /* BCMobAd-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "BCMobAd-umbrella.h"; sourceTree = "<group>"; };
+		BA749F88753ED33C5975A7D60ABC18BD /* BCMobAd.podspec */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; lastKnownFileType = text; path = BCMobAd.podspec; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		BE67B99B544BAEE0C68BE5EF4CEEB987 /* Pods-BCMobAd_Example.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-BCMobAd_Example.debug.xcconfig"; sourceTree = "<group>"; };
+		C86649C2048B1322950392FA5AAC3EDC /* BCMobAdLaunchConfig.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = BCMobAdLaunchConfig.h; path = BCMobAd/Classes/BCMobAdLaunchConfig.h; sourceTree = "<group>"; };
 		C9C1F8571E51F5C0DF93AEF40F772E6B /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		CC5C9CC50542AE04D0DC72E5FF39897A /* BCMobAd-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "BCMobAd-umbrella.h"; sourceTree = "<group>"; };
-		CD339B515053A21CA9A5A6B93C1B02F1 /* libBCMobAdsSDK.a */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = archive.ar; name = libBCMobAdsSDK.a; path = BCMobAd/Classes/libBCMobAdsSDK.a; sourceTree = "<group>"; };
 		D24C250DC553D35A81C2E30661C2AD82 /* Pods-BCMobAd_Tests-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-BCMobAd_Tests-frameworks.sh"; sourceTree = "<group>"; };
-		DEBFD05688B6A408A8AF33B529F4F099 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; path = README.md; sourceTree = "<group>"; };
-		E5F880D9DACBEF50F41F9E01C0B70F04 /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		EF67F3F1FDEE2B8F3D1BE4295FD068D3 /* BCMobAdLaunchConfig.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = BCMobAdLaunchConfig.h; path = BCMobAd/Classes/BCMobAdLaunchConfig.h; sourceTree = "<group>"; };
+		D40A53D99287772ED869E4358315DF30 /* bcad_ic_qs_ring_mode@2x.png */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = image.png; name = "bcad_ic_qs_ring_mode@2x.png"; path = "BCMobAd/Assets/bcad_ic_qs_ring_mode@2x.png"; sourceTree = "<group>"; };
+		E3683AEF9F0BE5F25C907E10C177CFFB /* bcad_close@2x.png */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = image.png; name = "bcad_close@2x.png"; path = "BCMobAd/Assets/bcad_close@2x.png"; sourceTree = "<group>"; };
+		F092AEE16645DF9DFECEFBFC7A7274CA /* BCMobAd.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = BCMobAd.framework; path = BCMobAd.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		F1C2B79C2CCE6522F229BFC52E38DC83 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS12.0.sdk/System/Library/Frameworks/Foundation.framework; sourceTree = DEVELOPER_DIR; };
+		F57E46925CD402647FE6B3CDB9671B65 /* BCMobAd-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "BCMobAd-prefix.pch"; sourceTree = "<group>"; };
 		F6548A50ED0363003AC00967D6E052C7 /* Pods-BCMobAd_Example-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-BCMobAd_Example-acknowledgements.plist"; sourceTree = "<group>"; };
 		FA6289CD74D3068AFCBC4E18356D0919 /* Pods-BCMobAd_Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-BCMobAd_Tests.debug.xcconfig"; sourceTree = "<group>"; };
+		FC0D2907BEC9BC0890E210D7917FD840 /* BCMobAd.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = BCMobAd.modulemap; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
+		4BEE853823F7D73CE64CD3F5993D1A58 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				AEDDC2F0F8D78D184F29991465537FDF /* CoreTelephony.framework in Frameworks */,
+				3EB1EF9FF7DF58F5A48CEA5B75F7DC3A /* Foundation.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
 		4BFEFBF0B642779FFF00EE414C26E72B /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
@@ -99,12 +126,10 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		FD7BE469590419064B6142629739FBF2 /* Frameworks */ = {
+		E53329D032E67D13D08376B621463A25 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				DEE116D62D2A5FA7F462FA4B15690514 /* CoreTelephony.framework in Frameworks */,
-				4E387696079AEC053C44900267FE7CF2 /* Foundation.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -120,6 +145,14 @@
 			name = iOS;
 			sourceTree = "<group>";
 		};
+		1A3126CAAEE2E3EB2FE11B344D6B4FE7 /* Development Pods */ = {
+			isa = PBXGroup;
+			children = (
+				A1BCB57CE80C479898C4E5564E85A434 /* BCMobAd */,
+			);
+			name = "Development Pods";
+			sourceTree = "<group>";
+		};
 		433CD3331B6C3787F473C941B61FC68F /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
@@ -128,28 +161,14 @@
 			name = Frameworks;
 			sourceTree = "<group>";
 		};
-		4C63154E2BBE449740DD2B5339E82558 /* Products */ = {
+		483A03002B299B5DEB25FCD3B031656F /* Pod */ = {
 			isa = PBXGroup;
 			children = (
-				69A325F286DA3675A56D21CBE5B61F40 /* BCMobAd.framework */,
-				A35FF11B58592EF141125249F87981CD /* Pods_BCMobAd_Example.framework */,
-				0C566DFCBF18FA73BBE7EC4104722D05 /* Pods_BCMobAd_Tests.framework */,
+				BA749F88753ED33C5975A7D60ABC18BD /* BCMobAd.podspec */,
+				533CAAA8DB527B02B51B2BC9543D127F /* LICENSE */,
+				7322269BEA032E2883FF07F434A13B1A /* README.md */,
 			);
-			name = Products;
-			sourceTree = "<group>";
-		};
-		549A9D88B711901420D2B46CA94F66F9 /* Support Files */ = {
-			isa = PBXGroup;
-			children = (
-				406FB4B2B5C386DE6EB5D8494BAD1A41 /* BCMobAd.modulemap */,
-				41737986D8C3203ED6BB8F7ADAAE3128 /* BCMobAd.xcconfig */,
-				706E01C7F3644AE38D73FD54B85DD2CB /* BCMobAd-dummy.m */,
-				9B72D8E6B39AD974A81D6A0533A69115 /* BCMobAd-prefix.pch */,
-				CC5C9CC50542AE04D0DC72E5FF39897A /* BCMobAd-umbrella.h */,
-				E5F880D9DACBEF50F41F9E01C0B70F04 /* Info.plist */,
-			);
-			name = "Support Files";
-			path = "Example/Pods/Target Support Files/BCMobAd";
+			name = Pod;
 			sourceTree = "<group>";
 		};
 		6A36367A09E62316E0B3978654518F2D /* Pods-BCMobAd_Tests */ = {
@@ -170,48 +189,46 @@
 			path = "Target Support Files/Pods-BCMobAd_Tests";
 			sourceTree = "<group>";
 		};
-		7C2E9EEDBBB0A9998A2B152964DB0205 /* BCMobAd */ = {
+		77660FF06642BF45438D32D5FA982582 /* Support Files */ = {
 			isa = PBXGroup;
 			children = (
-				415227A9A64FD7B2E09ED8B8DBAC61FA /* BCMobAdLaunch.h */,
-				EF67F3F1FDEE2B8F3D1BE4295FD068D3 /* BCMobAdLaunchConfig.h */,
-				5AD4516ADCE152B2B07759F51A56A1E9 /* BCMobAds.h */,
-				CD339B515053A21CA9A5A6B93C1B02F1 /* libBCMobAdsSDK.a */,
-				FEA1934A7ACFE8BC3CF1CE28329EE506 /* Frameworks */,
-				95C6E05C1956963092871FB51D7AB6C7 /* Pod */,
-				549A9D88B711901420D2B46CA94F66F9 /* Support Files */,
+				FC0D2907BEC9BC0890E210D7917FD840 /* BCMobAd.modulemap */,
+				8C7EE8C92590B84C421426D36120BDBC /* BCMobAd.xcconfig */,
+				03E0BA6EC229FB1B0724653CCC8EFA5D /* BCMobAd-dummy.m */,
+				F57E46925CD402647FE6B3CDB9671B65 /* BCMobAd-prefix.pch */,
+				B9ACFB4E0A3ED8125641B580025E4DA3 /* BCMobAd-umbrella.h */,
+				9FB6107681063E79FB02E9CB5528D16B /* Info.plist */,
+				06916B50ECB60806CBD7F5F664E47C6D /* ResourceBundle-BCResources-Info.plist */,
 			);
-			name = BCMobAd;
-			path = ../..;
+			name = "Support Files";
+			path = "Example/Pods/Target Support Files/BCMobAd";
 			sourceTree = "<group>";
 		};
 		7DB346D0F39D3F0E887471402A8071AB = {
 			isa = PBXGroup;
 			children = (
 				93A4A3777CF96A4AAC1D13BA6DCCEA73 /* Podfile */,
-				AFCC8D095FA4A16313619D38591B4EB6 /* Development Pods */,
+				1A3126CAAEE2E3EB2FE11B344D6B4FE7 /* Development Pods */,
 				433CD3331B6C3787F473C941B61FC68F /* Frameworks */,
-				4C63154E2BBE449740DD2B5339E82558 /* Products */,
+				FB1BC1B3549F810996516577425A6370 /* Products */,
 				FAA8730F8F60CD839B7DD9025E2F64E7 /* Targets Support Files */,
 			);
 			sourceTree = "<group>";
 		};
-		95C6E05C1956963092871FB51D7AB6C7 /* Pod */ = {
+		A1BCB57CE80C479898C4E5564E85A434 /* BCMobAd */ = {
 			isa = PBXGroup;
 			children = (
-				458EA57A8FE43A9B8E9BE809FA6744A0 /* BCMobAd.podspec */,
-				6362FDAB2F0D3E0E0C0DB7EFEFADD75F /* LICENSE */,
-				DEBFD05688B6A408A8AF33B529F4F099 /* README.md */,
+				7400CA513600EB546152CB9C627F203D /* BCMobAdLaunch.h */,
+				C86649C2048B1322950392FA5AAC3EDC /* BCMobAdLaunchConfig.h */,
+				7A3AD60587D949249994516DE584F7FD /* BCMobAds.h */,
+				A74CE3B63AC5E97E70793BB56CB32A26 /* libBCMobAdsSDK.a */,
+				B288E71EEC29E96EFED71FB570AD14F8 /* Frameworks */,
+				483A03002B299B5DEB25FCD3B031656F /* Pod */,
+				FEE06CF56A598F2C226F02C1D5FAFFFB /* Resources */,
+				77660FF06642BF45438D32D5FA982582 /* Support Files */,
 			);
-			name = Pod;
-			sourceTree = "<group>";
-		};
-		AFCC8D095FA4A16313619D38591B4EB6 /* Development Pods */ = {
-			isa = PBXGroup;
-			children = (
-				7C2E9EEDBBB0A9998A2B152964DB0205 /* BCMobAd */,
-			);
-			name = "Development Pods";
+			name = BCMobAd;
+			path = ../..;
 			sourceTree = "<group>";
 		};
 		B1B188EABAF4533C839D1839029BD7D9 /* Pods-BCMobAd_Example */ = {
@@ -232,6 +249,13 @@
 			path = "Target Support Files/Pods-BCMobAd_Example";
 			sourceTree = "<group>";
 		};
+		B288E71EEC29E96EFED71FB570AD14F8 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
 		FAA8730F8F60CD839B7DD9025E2F64E7 /* Targets Support Files */ = {
 			isa = PBXGroup;
 			children = (
@@ -241,24 +265,39 @@
 			name = "Targets Support Files";
 			sourceTree = "<group>";
 		};
-		FEA1934A7ACFE8BC3CF1CE28329EE506 /* Frameworks */ = {
+		FB1BC1B3549F810996516577425A6370 /* Products */ = {
 			isa = PBXGroup;
 			children = (
+				F092AEE16645DF9DFECEFBFC7A7274CA /* BCMobAd.framework */,
+				7FDAE5561937AED04AFC27A5106F9F68 /* BCResources.bundle */,
+				5EEBBF0862EB6DB8EF4EC573A2934BD2 /* Pods_BCMobAd_Example.framework */,
+				1C59F474485E59B942721BEBC22EC4BB /* Pods_BCMobAd_Tests.framework */,
 			);
-			name = Frameworks;
+			name = Products;
+			sourceTree = "<group>";
+		};
+		FEE06CF56A598F2C226F02C1D5FAFFFB /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				158115F055B560BBA08A2A7318A3D2AD /* bcad_back@2x.png */,
+				E3683AEF9F0BE5F25C907E10C177CFFB /* bcad_close@2x.png */,
+				3B5A143BC0397BC25E5D46932505EBA7 /* bcad_ic_qs_mute_mode@2x.png */,
+				D40A53D99287772ED869E4358315DF30 /* bcad_ic_qs_ring_mode@2x.png */,
+			);
+			name = Resources;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
 
 /* Begin PBXHeadersBuildPhase section */
-		851D990B057DC6BFCA00DAE6CBC3AA1F /* Headers */ = {
+		32F5DB7670AE9319AFDF7BF58A3035BA /* Headers */ = {
 			isa = PBXHeadersBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				2E09763B96A6EF72965B9DE9AFA8653B /* BCMobAd-umbrella.h in Headers */,
-				C5D936F6D1E71008B75E34F26940FAE6 /* BCMobAdLaunch.h in Headers */,
-				B50B1B5C0B30FDF8FAC1B2750C3A64BD /* BCMobAdLaunchConfig.h in Headers */,
-				F6A24D1DBAC29DC3745C055D94A03B0B /* BCMobAds.h in Headers */,
+				F08910685EC9261FFF6F5822258CCF7B /* BCMobAd-umbrella.h in Headers */,
+				D9664C82ECF72D318796A14E43BADFBB /* BCMobAdLaunch.h in Headers */,
+				FE8F5047CE04315073C5888F115EC3A4 /* BCMobAdLaunchConfig.h in Headers */,
+				70B83C8427AF87EBC30702A4FC7E27DB /* BCMobAds.h in Headers */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -281,22 +320,40 @@
 /* End PBXHeadersBuildPhase section */
 
 /* Begin PBXNativeTarget section */
-		7FABAB665A9BA212C9AAB0E0D432AD46 /* BCMobAd */ = {
+		05603544C888EC7AB7CB42F3CD02B320 /* BCMobAd-BCResources */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = A9783C03F230C5BB66343940429667DE /* Build configuration list for PBXNativeTarget "BCMobAd" */;
+			buildConfigurationList = 24FBED7CA9CB1EAFFB73E755C4EF113D /* Build configuration list for PBXNativeTarget "BCMobAd-BCResources" */;
 			buildPhases = (
-				851D990B057DC6BFCA00DAE6CBC3AA1F /* Headers */,
-				89175611BE4B222139822B706DF075AE /* Sources */,
-				FD7BE469590419064B6142629739FBF2 /* Frameworks */,
-				E9C4BDC2A8C6E9065660BCAAABDFE62E /* Resources */,
+				9DB4603FB7B5776E97C98B0DBC433FC5 /* Sources */,
+				E53329D032E67D13D08376B621463A25 /* Frameworks */,
+				B619B722C505CE83A4A05A5929931C69 /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
 			);
+			name = "BCMobAd-BCResources";
+			productName = "BCMobAd-BCResources";
+			productReference = 7FDAE5561937AED04AFC27A5106F9F68 /* BCResources.bundle */;
+			productType = "com.apple.product-type.bundle";
+		};
+		24BDA474972D7503183B3E87E79CAC16 /* BCMobAd */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = C574DE38F893D591E68285DBE04DE3A5 /* Build configuration list for PBXNativeTarget "BCMobAd" */;
+			buildPhases = (
+				32F5DB7670AE9319AFDF7BF58A3035BA /* Headers */,
+				2F0944E347A4B365C159C79BDBE36C27 /* Sources */,
+				4BEE853823F7D73CE64CD3F5993D1A58 /* Frameworks */,
+				C88C96906BD3449A9140633907D38C4C /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				A7DD58C6E14E7FE9D647A955CB56DE37 /* PBXTargetDependency */,
+			);
 			name = BCMobAd;
 			productName = BCMobAd;
-			productReference = 69A325F286DA3675A56D21CBE5B61F40 /* BCMobAd.framework */;
+			productReference = F092AEE16645DF9DFECEFBFC7A7274CA /* BCMobAd.framework */;
 			productType = "com.apple.product-type.framework";
 		};
 		DAE8AF170ED9F631507C9096882DC319 /* Pods-BCMobAd_Tests */ = {
@@ -315,7 +372,7 @@
 			);
 			name = "Pods-BCMobAd_Tests";
 			productName = "Pods-BCMobAd_Tests";
-			productReference = 0C566DFCBF18FA73BBE7EC4104722D05 /* Pods_BCMobAd_Tests.framework */;
+			productReference = 1C59F474485E59B942721BEBC22EC4BB /* Pods_BCMobAd_Tests.framework */;
 			productType = "com.apple.product-type.framework";
 		};
 		DF1906C70CF89D119706BC91D5B963F6 /* Pods-BCMobAd_Example */ = {
@@ -334,7 +391,7 @@
 			);
 			name = "Pods-BCMobAd_Example";
 			productName = "Pods-BCMobAd_Example";
-			productReference = A35FF11B58592EF141125249F87981CD /* Pods_BCMobAd_Example.framework */;
+			productReference = 5EEBBF0862EB6DB8EF4EC573A2934BD2 /* Pods_BCMobAd_Example.framework */;
 			productType = "com.apple.product-type.framework";
 		};
 /* End PBXNativeTarget section */
@@ -354,11 +411,12 @@
 				en,
 			);
 			mainGroup = 7DB346D0F39D3F0E887471402A8071AB;
-			productRefGroup = 4C63154E2BBE449740DD2B5339E82558 /* Products */;
+			productRefGroup = FB1BC1B3549F810996516577425A6370 /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				7FABAB665A9BA212C9AAB0E0D432AD46 /* BCMobAd */,
+				24BDA474972D7503183B3E87E79CAC16 /* BCMobAd */,
+				05603544C888EC7AB7CB42F3CD02B320 /* BCMobAd-BCResources */,
 				DF1906C70CF89D119706BC91D5B963F6 /* Pods-BCMobAd_Example */,
 				DAE8AF170ED9F631507C9096882DC319 /* Pods-BCMobAd_Tests */,
 			);
@@ -366,6 +424,25 @@
 /* End PBXProject section */
 
 /* Begin PBXResourcesBuildPhase section */
+		B619B722C505CE83A4A05A5929931C69 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				55C72627A4CE2B1FFB1B77F55C2C6701 /* bcad_back@2x.png in Resources */,
+				335C602E5AE3DD598A3D56B86096EC62 /* bcad_close@2x.png in Resources */,
+				32E2F835D51463648DB36C33B473AB06 /* bcad_ic_qs_mute_mode@2x.png in Resources */,
+				05D15BF0E455C02FD2E13DFD26E51F72 /* bcad_ic_qs_ring_mode@2x.png in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		C88C96906BD3449A9140633907D38C4C /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				96DE5EAE1E4AB1BD271B93B1FFAF99A7 /* BCResources.bundle in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
 		D1102C60358DCDBDCC2E8383D02CA4D6 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
@@ -380,16 +457,18 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		E9C4BDC2A8C6E9065660BCAAABDFE62E /* Resources */ = {
-			isa = PBXResourcesBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
+		2F0944E347A4B365C159C79BDBE36C27 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				65ADD536BC7A3284238E0A4460133580 /* BCMobAd-dummy.m in Sources */,
+				D4EA1C8820B18B5ACC313DB515078A6B /* libBCMobAdsSDK.a in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
 		56633C14A85E9E617B90725C842D2668 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
@@ -398,12 +477,10 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		89175611BE4B222139822B706DF075AE /* Sources */ = {
+		9DB4603FB7B5776E97C98B0DBC433FC5 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				9BB25BA3AA46D20FC66C865ADE75D264 /* BCMobAd-dummy.m in Sources */,
-				46F3522497CE0F75166273AF3C4DFB54 /* libBCMobAdsSDK.a in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -421,7 +498,7 @@
 		66B1EA857F21CD8D6DA4D1018A11A5AD /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			name = BCMobAd;
-			target = 7FABAB665A9BA212C9AAB0E0D432AD46 /* BCMobAd */;
+			target = 24BDA474972D7503183B3E87E79CAC16 /* BCMobAd */;
 			targetProxy = 4EFF36EEDD954D92666DC3CCCA4A0106 /* PBXContainerItemProxy */;
 		};
 		921D03958F7CE41BCB78532C37DAC601 /* PBXTargetDependency */ = {
@@ -430,9 +507,31 @@
 			target = DF1906C70CF89D119706BC91D5B963F6 /* Pods-BCMobAd_Example */;
 			targetProxy = 977025F866CE67C4EE8B50CFA15FBEC1 /* PBXContainerItemProxy */;
 		};
+		A7DD58C6E14E7FE9D647A955CB56DE37 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			name = "BCMobAd-BCResources";
+			target = 05603544C888EC7AB7CB42F3CD02B320 /* BCMobAd-BCResources */;
+			targetProxy = C35776084D1238D5ECB6D516B121DE34 /* PBXContainerItemProxy */;
+		};
 /* End PBXTargetDependency section */
 
 /* Begin XCBuildConfiguration section */
+		0B585DB8AFE9DE822EEF9A37AB0B6A17 /* Release */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 8C7EE8C92590B84C421426D36120BDBC /* BCMobAd.xcconfig */;
+			buildSettings = {
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				CONFIGURATION_BUILD_DIR = "$(BUILD_DIR)/$(CONFIGURATION)$(EFFECTIVE_PLATFORM_NAME)/BCMobAd";
+				INFOPLIST_FILE = "Target Support Files/BCMobAd/ResourceBundle-BCResources-Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
+				PRODUCT_NAME = BCResources;
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				WRAPPER_EXTENSION = bundle;
+			};
+			name = Release;
+		};
 		0E6A64A5AF1FAB67FF7D3CE9D99DE82B /* Release */ = {
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = 6E577E1D3895B636E91D2D6784E1FA69 /* Pods-BCMobAd_Example.release.xcconfig */;
@@ -460,37 +559,6 @@
 				PRODUCT_NAME = "$(TARGET_NAME:c99extidentifier)";
 				SDKROOT = iphoneos;
 				SKIP_INSTALL = YES;
-				TARGETED_DEVICE_FAMILY = "1,2";
-				VALIDATE_PRODUCT = YES;
-				VERSIONING_SYSTEM = "apple-generic";
-				VERSION_INFO_PREFIX = "";
-			};
-			name = Release;
-		};
-		13F6443B4CC7B755F7323B131C3807D0 /* Release */ = {
-			isa = XCBuildConfiguration;
-			baseConfigurationReference = 41737986D8C3203ED6BB8F7ADAAE3128 /* BCMobAd.xcconfig */;
-			buildSettings = {
-				CODE_SIGN_IDENTITY = "";
-				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
-				CURRENT_PROJECT_VERSION = 1;
-				DEFINES_MODULE = YES;
-				DYLIB_COMPATIBILITY_VERSION = 1;
-				DYLIB_CURRENT_VERSION = 1;
-				DYLIB_INSTALL_NAME_BASE = "@rpath";
-				GCC_PREFIX_HEADER = "Target Support Files/BCMobAd/BCMobAd-prefix.pch";
-				INFOPLIST_FILE = "Target Support Files/BCMobAd/Info.plist";
-				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
-				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				MODULEMAP_FILE = "Target Support Files/BCMobAd/BCMobAd.modulemap";
-				PRODUCT_MODULE_NAME = BCMobAd;
-				PRODUCT_NAME = BCMobAd;
-				SDKROOT = iphoneos;
-				SKIP_INSTALL = YES;
-				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
 				TARGETED_DEVICE_FAMILY = "1,2";
 				VALIDATE_PRODUCT = YES;
 				VERSIONING_SYSTEM = "apple-generic";
@@ -660,6 +728,37 @@
 			};
 			name = Debug;
 		};
+		BBCD32D8C96A7A9EE59792FA1DAB11DA /* Release */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 8C7EE8C92590B84C421426D36120BDBC /* BCMobAd.xcconfig */;
+			buildSettings = {
+				CODE_SIGN_IDENTITY = "";
+				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
+				CURRENT_PROJECT_VERSION = 1;
+				DEFINES_MODULE = YES;
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				GCC_PREFIX_HEADER = "Target Support Files/BCMobAd/BCMobAd-prefix.pch";
+				INFOPLIST_FILE = "Target Support Files/BCMobAd/Info.plist";
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				MODULEMAP_FILE = "Target Support Files/BCMobAd/BCMobAd.modulemap";
+				PRODUCT_MODULE_NAME = BCMobAd;
+				PRODUCT_NAME = BCMobAd;
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VALIDATE_PRODUCT = YES;
+				VERSIONING_SYSTEM = "apple-generic";
+				VERSION_INFO_PREFIX = "";
+			};
+			name = Release;
+		};
 		BCC73E4A66024939D6CA594E65A23793 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = FA6289CD74D3068AFCBC4E18356D0919 /* Pods-BCMobAd_Tests.debug.xcconfig */;
@@ -693,9 +792,9 @@
 			};
 			name = Debug;
 		};
-		C6ED1A98CEFCCE188D8A855BA66AB668 /* Debug */ = {
+		C217D44070AAEB63262DCDBE9ACA7D95 /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 41737986D8C3203ED6BB8F7ADAAE3128 /* BCMobAd.xcconfig */;
+			baseConfigurationReference = 8C7EE8C92590B84C421426D36120BDBC /* BCMobAd.xcconfig */;
 			buildSettings = {
 				CODE_SIGN_IDENTITY = "";
 				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
@@ -720,6 +819,22 @@
 				TARGETED_DEVICE_FAMILY = "1,2";
 				VERSIONING_SYSTEM = "apple-generic";
 				VERSION_INFO_PREFIX = "";
+			};
+			name = Debug;
+		};
+		D8EE5627B53774D1BD046C6EE6828D29 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 8C7EE8C92590B84C421426D36120BDBC /* BCMobAd.xcconfig */;
+			buildSettings = {
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				CONFIGURATION_BUILD_DIR = "$(BUILD_DIR)/$(CONFIGURATION)$(EFFECTIVE_PLATFORM_NAME)/BCMobAd";
+				INFOPLIST_FILE = "Target Support Files/BCMobAd/ResourceBundle-BCResources-Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
+				PRODUCT_NAME = BCResources;
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				WRAPPER_EXTENSION = bundle;
 			};
 			name = Debug;
 		};
@@ -759,6 +874,15 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
+		24FBED7CA9CB1EAFFB73E755C4EF113D /* Build configuration list for PBXNativeTarget "BCMobAd-BCResources" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				D8EE5627B53774D1BD046C6EE6828D29 /* Debug */,
+				0B585DB8AFE9DE822EEF9A37AB0B6A17 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
 		2D8E8EC45A3A1A1D94AE762CB5028504 /* Build configuration list for PBXProject "Pods" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
@@ -777,11 +901,11 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		A9783C03F230C5BB66343940429667DE /* Build configuration list for PBXNativeTarget "BCMobAd" */ = {
+		C574DE38F893D591E68285DBE04DE3A5 /* Build configuration list for PBXNativeTarget "BCMobAd" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				C6ED1A98CEFCCE188D8A855BA66AB668 /* Debug */,
-				13F6443B4CC7B755F7323B131C3807D0 /* Release */,
+				C217D44070AAEB63262DCDBE9ACA7D95 /* Debug */,
+				BBCD32D8C96A7A9EE59792FA1DAB11DA /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
