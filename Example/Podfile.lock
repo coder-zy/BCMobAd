@@ -1,5 +1,5 @@
 PODS:
-  - BCMobAd (0.1.4)
+  - BCMobAd (0.1.5)
 
 DEPENDENCIES:
   - BCMobAd (from `../`)
@@ -9,7 +9,7 @@ EXTERNAL SOURCES:
     :path: "../"
 
 SPEC CHECKSUMS:
-  BCMobAd: 77afd119c564c7701381bb8d1ef875f9b61db1ac
+  BCMobAd: c552cd65d14d9addb840d50f93e6a6bb4528423c
 
 PODFILE CHECKSUM: cb7342e0dce7a549b0f9a657b98037c9099c053e
 

@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'BCMobAd'
-  s.version          = '0.1.5'
+  s.version          = '0.1.6'
   s.summary          = 'BaiCe AD'
 
   s.description      = <<-DESC
@@ -26,7 +26,7 @@ Pod::Spec.new do |s|
   s.ios.deployment_target = '8.0'
 
   s.source_files = 'BCMobAd/Classes/**/*'
-  s.resource = "BCMobAd/Assets/BCResources.bundle"
+  s.resource = "BCMobAd/Assets/BCMobAd.bundle"
   # s.resource_bundles = {
   #   'BCResources' => ['BCMobAd/Assets/*.png']
   # }

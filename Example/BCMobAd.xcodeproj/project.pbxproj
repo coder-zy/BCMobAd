@@ -37,10 +37,10 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		0802D4158CF3F156FB31E817 /* BCMobAd.podspec */ = {isa = PBXFileReference; includeInIndex = 1; name = BCMobAd.podspec; path = ../BCMobAd.podspec; sourceTree = "<group>"; };
+		0802D4158CF3F156FB31E817 /* BCMobAd.podspec */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = BCMobAd.podspec; path = ../BCMobAd.podspec; sourceTree = "<group>"; };
 		0E2246B8C502B3A9328EF287 /* Pods-BCMobAd_Example.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-BCMobAd_Example.debug.xcconfig"; path = "Pods/Target Support Files/Pods-BCMobAd_Example/Pods-BCMobAd_Example.debug.xcconfig"; sourceTree = "<group>"; };
 		4F82FD65FE68381B68088BF6 /* Pods-BCMobAd_Example.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-BCMobAd_Example.release.xcconfig"; path = "Pods/Target Support Files/Pods-BCMobAd_Example/Pods-BCMobAd_Example.release.xcconfig"; sourceTree = "<group>"; };
-		5341E53870DA178027E3C313 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; name = README.md; path = ../README.md; sourceTree = "<group>"; };
+		5341E53870DA178027E3C313 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = net.daringfireball.markdown; name = README.md; path = ../README.md; sourceTree = "<group>"; };
 		547BD2035F6D58A28930AE0D /* Pods_BCMobAd_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_BCMobAd_Tests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		54EB9154DAF2E0B1EF2E1AF6 /* Pods-BCMobAd_Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-BCMobAd_Tests.release.xcconfig"; path = "Pods/Target Support Files/Pods-BCMobAd_Tests/Pods-BCMobAd_Tests.release.xcconfig"; sourceTree = "<group>"; };
 		6003F58A195388D20070C39A /* BCMobAd_Example.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = BCMobAd_Example.app; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -62,7 +62,7 @@
 		6003F5B9195388D20070C39A /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		6003F5BB195388D20070C39A /* Tests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = Tests.m; sourceTree = "<group>"; };
 		606FC2411953D9B200FFA9A0 /* Tests-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Tests-Prefix.pch"; sourceTree = "<group>"; };
-		6D0A1A1C6234B91E0789E2CF /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
+		6D0A1A1C6234B91E0789E2CF /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
 		71719F9E1E33DC2100824A3D /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		873B8AEA1B1F5CCA007FD442 /* Main.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; name = Main.storyboard; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		980EEBBE6C5EB1FA73D8D47F /* Pods_BCMobAd_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_BCMobAd_Example.framework; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -247,6 +247,9 @@
 				LastUpgradeCheck = 0720;
 				ORGANIZATIONNAME = "coder-zy";
 				TargetAttributes = {
+					6003F589195388D20070C39A = {
+						DevelopmentTeam = 3YB5CMR988;
+					};
 					6003F5AD195388D20070C39A = {
 						TestTargetID = 6003F589195388D20070C39A;
 					};
@@ -497,6 +500,7 @@
 			baseConfigurationReference = 0E2246B8C502B3A9328EF287 /* Pods-BCMobAd_Example.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = 3YB5CMR988;
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "BCMobAd/BCMobAd-Prefix.pch";
 				INFOPLIST_FILE = "BCMobAd/BCMobAd-Info.plist";
@@ -512,6 +516,7 @@
 			baseConfigurationReference = 4F82FD65FE68381B68088BF6 /* Pods-BCMobAd_Example.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = 3YB5CMR988;
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "BCMobAd/BCMobAd-Prefix.pch";
 				INFOPLIST_FILE = "BCMobAd/BCMobAd-Info.plist";
